@@ -1,14 +1,12 @@
 ![logo](https://github.com/ParinaK/ParinaK/blob/master/banner_parina.PNG)
 
 <h1 align="center">Hi 👋, I'm Parina Kolhe</h1>
-<h3 align="center">A passionate Product Strategist with inclination towards data science</h3>
+<h3 align="center">A passionate Product Strategist with inclination towards data science and Machine Learning </h3>
 
 <img align="right" alt="coding" width="400" src='https://tenor.com/en-IN/view/coding-gif-4706460855862906629.gif'>
-- 🔭 I’m currently learning **data science**
+- 🔭 I’m currently learning **data science** and **machine learning**
 
-- 🌱 I’m currently learning **data science & business analytics**
-
-- 👯 I’m looking to collaborate on **marketing analytics**
+- 👯 I’m looking to collaborate on **machine learning/AI projects**
 
 - 💬 Ask me about **Product Management**
 
