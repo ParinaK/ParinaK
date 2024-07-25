@@ -4,15 +4,15 @@
 <h3 align="center">A passionate Product Strategist with inclination towards data science and Machine Learning </h3>
 
 <img align="right" alt="coding" width="400" src='https://tenor.com/en-IN/view/coding-gif-4706460855862906629.gif'>
-- 🔭 I’m currently learning **data science** and **machine learning**
+- 🔭 I’m currently learning data science and machine learning
 
 - 👯 I’m looking to collaborate on **machine learning/AI projects**
 
-- 💬 Ask me about **Product Management**
+- 💬 Ask me about **Product Management**, **Data Analytics** or **Marketing**
 
 - 📫 How to reach me **parinakolhe@gmail.com**
 
-- ⚡ Fun fact **I am a traveler and love road trips**
+- ⚡ Fun fact **I am a luxury traveler blogger and love road trips**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
